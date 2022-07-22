@@ -2,6 +2,9 @@
 # AWS-glue.
 IaC setup for high-throutput-batch-workflow setup in AWS using Batch written in terrraform.
 
+https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-python-samples-legislators.html
+https://stackoverflow.com/questions/50604133/convert-csv-to-parquet-file-using-python?answertab=trending#tab-top
+
 <img src="https://logodix.com/logo/1686050.png" height="32" width="32"> ![terraform version](https://img.shields.io/badge/terraform-v1.1.17-purple)
 
 ## Set up
